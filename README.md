@@ -4,7 +4,7 @@ I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engi
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://echo-xiao9.github.io/)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-xiao9)
 ## Resume
 [download](https://echo-xiao9.github.io/file/YixiaoKangResume.pdf)
 
