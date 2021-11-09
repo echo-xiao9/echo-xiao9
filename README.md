@@ -3,16 +3,30 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://echo-xiao9.github.io/)
 
+## Resume
+[English version](https://echo-xiao9.github.io/file/YixiaoKangResume.pdf)
 
-## 📝 Blogs
 
-<!-- BLOG-POST-LIST:START -->
+## 📝 Links
+
+### Website
 - [Olivia’s blog](https://echo-xiao9.github.io/)
+### Google Scholar Profile
+- [link](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 
-
+### Bilibili
+- [link](https://space.bilibili.com/499540439)
+- 
 ## 📈 Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=echo-xiao9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-xiao9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+### last month 
+<p align="center">
+    <img height="180em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" />
+    <img height="180em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/>
+
 </p>
 
