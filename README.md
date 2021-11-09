@@ -24,8 +24,8 @@ I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engi
 
 ### last month 
 <p align="center">
-    <img height="180em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" />
-    <img height="180em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/>
+    <img height="300em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" />
+    <img height="300em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/>
 
 </p>
 
