@@ -14,7 +14,7 @@ I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engi
 - [Olivia’s blog](https://echo-xiao9.github.io/)
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 - [Bilibili](https://space.bilibili.com/499540439)
-
+<img src="https://i.imgur.com/eyxsQN0.gif" width="40px">
 
 ## 📈 Stats
 <p>
