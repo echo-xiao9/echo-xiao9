@@ -9,7 +9,7 @@ I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engi
 <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="400">
 
 ## Resume
-[download](https://echo-xiao9.github.io/file/YixiaoKangResume.pdf)
+[download](https://www.echoyixiao.cn/mySite/pdf/Yixiao_Kang_resume.pdf)
 
 
 
