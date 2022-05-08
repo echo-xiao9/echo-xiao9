@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm <a href="https://echo-xiao9.github.io/" target="_blank">Olivia Kang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://www.echoyixiao.cn/mySite/" target="_blank">Yixiao Kang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engineering, hope to create wonderful things by combining code and design.
 
 
