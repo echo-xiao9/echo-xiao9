@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm <a href="https://www.echoyixiao.cn/mySite/" target="_blank">Yixiao Kang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm an undergraduate from Shanghai JiaoTong University majoring in Software Engineering, hope to create wonderful things by combining code and design.
+I am a junior majoring in software engineering at Shanghai Jiao Tong University, mainly engaged in the research of Human-computer Interaction and Computer Graphics. I hope to create wonderful things with code and design.
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.echoyixiao.cn/mySite)
