@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm <a href="https://www.echoyixiao.cn/mySite/" target="_blank">Yixiao Kang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://www.echoyixiao.cn/mySite/" target="_blank">Yixiao Kang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25em">
 I am a junior majoring in software engineering at Shanghai Jiao Tong University, mainly engaged in the research of Human-computer Interaction and Computer Graphics. I hope to create wonderful things with code and design.
 
 
