@@ -6,6 +6,7 @@ I am a junior majoring in software engineering at Shanghai Jiao Tong University,
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.echoyixiao.cn/mySite)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-xiao9)
+<img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
 
 ## Resume
 [download](https://www.echoyixiao.cn/mySite/pdf/Yixiao_Kang_resume.pdf)
@@ -18,7 +19,7 @@ I am a junior majoring in software engineering at Shanghai Jiao Tong University,
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 - [Bilibili](https://space.bilibili.com/499540439)
 
-<img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
+
 
 ## 📈 Stats
 <p>
