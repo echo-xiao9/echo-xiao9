@@ -18,19 +18,19 @@ I am a junior majoring in software engineering at Shanghai Jiao Tong University,
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 - [Bilibili](https://space.bilibili.com/499540439)
 
-<!-- <img src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" height = "150em"> -->
+<img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
 
 ## 📈 Stats
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=echo-xiao9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-xiao9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="200">
+ <!--  <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="200"> --!>
 </p>
 
 ### last month 
 <p align="center">
-    <img height="200em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" />
-    <img height="200em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/>
+    <img height="230em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" />
+    <img height="230em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/>
 
 </p>
 
