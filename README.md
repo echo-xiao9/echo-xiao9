@@ -18,12 +18,12 @@ I am a junior majoring in software engineering at Shanghai Jiao Tong University,
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 - [Bilibili](https://space.bilibili.com/499540439)
 
-<!-- <img src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="220px"> -->
+<!-- <img src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" height = "150em"> -->
 
 ## 📈 Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=echo-xiao9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-xiao9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=echo-xiao9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-xiao9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="200">
 </p>
 
