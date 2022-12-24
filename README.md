@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Olivia Kang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25em">
-I am a junior majoring in software engineering at Shanghai Jiao Tong University, mainly engaged in the research of Human-computer Interaction and Computer Graphics. I hope to create wonderful things with code and design.
+I am a senior student majoring in software engineering at Shanghai Jiao Tong University, mainly engaged in the research of Human-computer Interaction and Computer Graphics. I hope to create wonderful things with code and design.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-xiao9)
