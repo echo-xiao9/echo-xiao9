@@ -21,10 +21,9 @@ I am a senior student majoring in software engineering at Shanghai Jiao Tong Uni
  <!--  <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="200"> --!>
 </p>
 
-
+## coding activity
 <p align="center">
-<!--     <img height="230em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/728f4d04-2308-4f83-a36c-7bbd46c3983d.svg" /> -->
-<!--     <img height="230em" src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/49e2b217-a6ab-480c-8757-98c9b3297fde.svg"/> -->
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/54386300-d65b-489d-aae5-c10720ea89e9.png" height="250em"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/bc9ea7b1-564d-4e6c-8e38-2c63ba1c2514.png" height="250em"/></a>
 </p>
 
