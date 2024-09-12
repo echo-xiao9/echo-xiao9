@@ -11,7 +11,6 @@ Aria Kang is a software engineer at Meta, specializing in generative AI, compute
 ## 📝 Links
 
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
-- [Bilibili](https://space.bilibili.com/499540439)
 
 
 ## 📈 Stats
