@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Aria Kang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25em">
+### Hi there, I'm Aria Kang
 
 Aria Kang is a software engineer at Meta, specializing in generative AI, computer vision and LLM . She earned her master’s degree from UC Berkeley in Electrical Engineering and Computer Sciences (EECS). Before joining Meta, Aria worked in MIT Computer Science and Artificial Intelligence Lab, Berkeley Robust deep learning group, TikTok AI Lab, etc. She has authored and published seven papers in top-tier conferences.
 
