@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Aria Kang
 
-Aria Kang is a software engineer at Meta, specializing in generative AI, computer vision and LLM . She earned her master’s degree from UC Berkeley in Electrical Engineering and Computer Sciences (EECS). Before joining Meta, Aria worked in MIT Computer Science and Artificial Intelligence Lab, Berkeley Robust deep learning group, TikTok AI Lab, etc. She has authored and published seven papers in top-tier conferences.
+Aria Kang is a research engineer at Meta, specializing in contextual AI, computer vision . She earned her master’s degree from UC Berkeley in Electrical Engineering and Computer Sciences (EECS). Before joining Meta, Aria worked in MIT Computer Science and Artificial Intelligence Lab, Berkeley Robust deep learning group, TikTok AI Lab, etc. She has authored and published seven papers in top-tier conferences.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-xiao9)
 <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="300">
