@@ -9,7 +9,6 @@ Currently, Aria is working on the open source initialitive for [Project Aria](ww
 - [ATEK](https://github.com/facebookresearch/ATEK), a deep learning training and evaluation framework (5K+ PyPI downloads), presented at ECCV 2024
 - [Project Aria tools](https://github.com/facebookresearch/projectaria_tools) (600+ GitHub stars), enabling access to environmental context and human behavior data.
 - [Project Aria Hugging Face hub](https://huggingface.co/projectaria), deploying 6 datasets and 3 models with 6.9K+ downloads
-<img width="476" height="77" alt="image" src="https://github.com/user-attachments/assets/48d92b76-a758-414d-ab19-f1e566a63ab5" />
 
 
 
