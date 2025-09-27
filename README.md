@@ -9,18 +9,13 @@ Currently, Aria is working on the open source initialitive for [Project Aria](ww
 - [ATEK](https://github.com/facebookresearch/ATEK), a deep learning training and evaluation framework (5K+ PyPI downloads), presented at ECCV 2024
 - [Project Aria tools](https://github.com/facebookresearch/projectaria_tools) (600+ GitHub stars), enabling access to environmental context and human behavior data.
 - [Project Aria Hugging Face hub](https://huggingface.co/projectaria), deploying 6 datasets and 3 models with 6.9K+ downloads
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-xiao9)
-
- 
+<img width="499" height="321" alt="Screenshot 2025-09-27 at 14 12 31" src="https://github.com/user-attachments/assets/f1e86683-033b-43fd-a45c-062488a31417" />
 
 ## 📝 Links
 
-[Linkedin](https://www.linkedin.com/in/yixiao-kang/)
-[Website](https://yixiaokang.wixstudio.com/home)
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
+- [Linkedin](https://www.linkedin.com/in/yixiao-kang/)
+- [Website](https://yixiaokang.wixstudio.com/home)
+- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=o3yuti0AAAAJ)
 
 
 ## 📈 Stats
@@ -29,10 +24,3 @@ Currently, Aria is working on the open source initialitive for [Project Aria](ww
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-xiao9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
  <!--  <img align='right' src="https://github.com/echo-xiao9/echo-xiao9/blob/7407b9bb2f7f3c3d11cb0f367e514672817b3048/drop.gif" width="200"> --!>
 </p>
-
-## coding activity
-<p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/54386300-d65b-489d-aae5-c10720ea89e9.png" height="250em"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9a5b568c-df0d-4650-80bf-a0c45f293e9f/bc9ea7b1-564d-4e6c-8e38-2c63ba1c2514.png" height="250em"/></a>
-</p>
-
