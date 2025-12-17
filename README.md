@@ -5,7 +5,8 @@ Aria (Yixiao) Kang is a research engineer at Meta Reality Labs Research, special
 
 Meanwhile, Aria Kang was the co-founder of BeAR Tech, a startup making the AR experience reachable for everyone.  As a member of the Berkeley Association of Chinese Entrepreneurs (ACE), IEEE, and ACM, she has the vision to catalyze creativity powered by AI. 
 
-Currently, Aria is working on the open source initialitive for [Project Aria](www.projectaria.com) from Meta Reality Labs Research. She is one of the main contributors to the following projects: 
+Currently, Aria is working on the open source initialitive for [Project Aria](www.projectaria.com) from Meta Reality Labs Research. She is one of the main contributors to the following projects at Meta Reality Labs Research: 
+- [Aria Gen2 Pilot Dataset](https://github.com/facebookresearch/projectaria_gen2_pilot_dataset?tab=readme-ov-file). The first dataset contains multimodal sensor data from Project Aria Gen2 glasses, including raw sensor streams, real-time machine perception outputs, and post-processed algorithm results.
 - [EgoBlur](https://github.com/facebookresearch/EgoBlur), open-source AI models from Meta designed to preserve privacy by detecting and blurring faces and license plates in images and videos. 
 - [ATEK](https://github.com/facebookresearch/ATEK), a deep learning training and evaluation framework (5K+ PyPI downloads), presented at ECCV 2024
 - [Project Aria tools](https://github.com/facebookresearch/projectaria_tools) (600+ GitHub stars), enabling access to environmental context and human behavior data.
